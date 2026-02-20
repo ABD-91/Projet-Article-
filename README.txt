@@ -1,13 +1,38 @@
-#Creation du README en local 
-crée sur le pc un fichier texte nommé README.txt
+#README – Projet Article Phishing
+Initialisation
 
-#Commande pour push le fichier
-git add .\README.txt
-git commit -m "README"
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin URL_DU_REPO
+git push -u origin main
+
+Création du README
+
+Créer README.md en local
+
+git add README.md
+git commit -m "Ajout README"
 git push
 
-#Creation d'une branche
+Création d’une branche
 
-git branch "nom de la branche"
-git switch "nom de la branche"
-git push –u origin <nom_branche>
+git switch -c nom_branche
+git push -u origin nom_branche
+
+Travailler sur une branche
+
+git add .
+git commit -m "Message clair"
+git push
+
+Voir les branches
+
+git branch
+git branch -r
+
+Fusionner dans main
+
+git switch main
+git merge nom_branche
+git push
