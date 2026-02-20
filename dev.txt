@@ -1,0 +1,25 @@
+2) Qu’est-ce que le phishing ?
+
+Le phishing est une attaque informatique qui consiste à tromper une personne afin de lui voler des informations confidentielles. Le pirate se fait passer pour une organisation officielle, comme une banque, un service de livraison ou une administration. Le but est de mettre la victime en confiance pour qu’elle communique ses données personnelles, comme un mot de passe ou un numéro de carte bancaire.
+
+Cette technique fonctionne principalement grâce à la manipulation psychologique. Les messages sont souvent urgents ou inquiétants pour pousser la personne à agir rapidement sans réfléchir.
+
+3) Comment fonctionne une attaque de phishing ?
+
+Une attaque de phishing commence généralement par l’envoi d’un email frauduleux. Le message peut indiquer, par exemple, qu’un compte va être bloqué ou qu’un colis est en attente.
+
+L’email contient un lien vers un faux site internet qui ressemble presque parfaitement au site officiel. La victime entre alors ses informations personnelles, pensant être sur le bon site. En réalité, les données sont directement envoyées au pirate.
+
+Il existe aussi d’autres formes de phishing, comme le smishing (par SMS) ou le vishing (par téléphone).
+
+4) Les dangers du phishing
+
+Le phishing peut avoir de lourdes conséquences. Une personne peut perdre de l’argent, voir ses comptes piratés ou être victime d’usurpation d’identité.
+
+Dans une entreprise, une simple erreur peut permettre à un pirate d’accéder à tout le système informatique. Cela peut entraîner des pertes financières importantes et des atteintes à la réputation.
+
+5) Comment se protéger ?
+
+Pour se protéger contre le phishing, il est important de rester vigilant. Il faut vérifier l’adresse de l’expéditeur, ne pas cliquer sur des liens suspects et toujours vérifier l’adresse du site internet avant d’entrer des informations.
+
+Il est également conseillé d’utiliser des mots de passe complexes et d’activer la double authentification lorsque c’est possible. En cas de doute, il vaut mieux contacter directement l’organisme concerné.
